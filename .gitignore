@@ -1,0 +1,24 @@
+.DS_Store
+
+# build
+#
+build
+contracts/Flattened.sol
+
+# node
+#
+node_modules
+
+# IDE
+#
+.idea
+
+# Coverage
+#
+coverage
+coverage.json
+coverageEnv
+
+# Package
+#
+package-lock.json
