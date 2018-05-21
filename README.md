@@ -15,6 +15,6 @@ Run lint and tests to check if everything is working fine:
         npm run test
 
 ## All-in-one code
-3. Get the flattened file of contract code (contracts/Flattened.sol) for deployment or verification purposes:
+Get the flattened file of contract code (contracts/Flattened.sol) for deployment or verification purposes:
 
         npm run flatten
